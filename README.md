@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sheen-sabu
-- 👀 I’m interested in DevOps 
+- 👀 I’m interested in DevOps/SRE
 - 📫 How to reach me sheensabu@gmail.com
 
 <!---
